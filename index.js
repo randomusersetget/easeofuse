@@ -1,4 +1,5 @@
-const passwordLength = window.prompt("Enter length of password:");
+//const passwordLength = window.prompt("Enter length of password:");
+const passwordLength = 10;
 const passwordLabel = document.getElementById("password");
 const upperCase = true;
 const lowerCase = true;
