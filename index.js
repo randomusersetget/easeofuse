@@ -7,8 +7,8 @@ const numbers = true;
 let passwordGen = "";
 let assembledPassword;
 let randomIndex;
-const upperCaseString = "LOKESHDUKHANDE";
-const lowerCaseString = "lokeshdukhande";
+const upperCaseString = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
+const lowerCaseString = "abcdefghijklmnopqrstuvwxyz";
 const specialCharsString = "!@#$%^&*";
 const numbersString = "0123456789";
 function passwordGenerator() {
